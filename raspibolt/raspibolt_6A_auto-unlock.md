@@ -96,3 +96,7 @@ This is why a script that automatically unlocks the wallet is  helpful. The pass
 ------
 
 << Back: [Bonus guides](raspibolt_60_bonus.md) 
+
+------
+
+## Installed to my node on 17/11/2018
